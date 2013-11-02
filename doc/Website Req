@@ -1,0 +1,19 @@
+Website Requirement
+
+1) UI
+Grey and Red
+Trailer of movie of the day
+
+2) Backend
+
+Admin user,
+Movie CRUD,
+Festival CRUD,
+Menu: Home, About, Festival, Blog
+Most common requests: 
+	Get movies from a festival
+	Get home page
+	Get about page
+	Get description from a movie id
+	
+
